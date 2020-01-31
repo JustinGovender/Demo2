@@ -1,3 +1,2 @@
 def simple_adder(x, y):
-    # hahaha
-    return x * y - y
+    return x + 2y - y
