@@ -1,2 +1,2 @@
 def simple_adder(x, y):
-    return x
+    return x + (2*y) - y
